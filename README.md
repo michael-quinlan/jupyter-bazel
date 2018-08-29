@@ -1,4 +1,4 @@
-## JUPYER-BAZEL ##
+## JUPYTER-BAZEL ##
 
 This is simple example of how to create and launch a jupyter notebook binary that includes local bazel libraries.
 
