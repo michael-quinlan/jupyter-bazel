@@ -1,6 +1,6 @@
 ## JUPYTER-BAZEL ##
 
-This is simple example of how to create and launch a jupyter notebook binary that includes local bazel libraries.
+This is simple example of how to create and launch a jupyter notebook binary that includes local bazel libraries. It was inspired by the conversation in https://github.com/bazelbuild/rules_python/issues/63.
 
 Simply execute:
 
