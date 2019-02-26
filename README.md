@@ -15,4 +15,4 @@ However you probably want to store your notebooks in a directory under your work
 bazel build notebooks:jupyter
 bazel-bin/notebooks/jupyter
 ```
-You when execute the binary this way you will see the example.ipynb included in this repo.
+When you execute the binary this way you will see the example.ipynb included in this repo.
